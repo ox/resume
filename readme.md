@@ -4,13 +4,9 @@
 [artem.titoulenko@gmail.com](mailto:artem.titoulenko@gmail.com)  
 [github.com/ArtemTitoulenko](github.com/ArtemTitoulenko)
 
-&nbsp;
-
 ## OBJECTIVE ##
 
 My objective is to explore the realm of user interaction and perception. I enjoy creating works that challenge expectations and do so in a way that smoothly guides and enlightens the user. Ultimately, I seek to create beautiful and easy to use works which stem from my experiences to deliver profound meanings to the user, be it in art or through the web.
-
-&nbsp;
 
 ## TECHNOLOGY ##
 
@@ -18,8 +14,6 @@ My objective is to explore the realm of user interaction and perception. I enjoy
 **Systems**: Ubuntu, Mac OS, iOS
 **Frameworks**: Rails, Sinatra, openFrameworks, Node, Backbone
 **Technologies/ideologies/Software**: Git, MySQL, SQLite3, Thin, Mongrel2, Heroku, CouchDB, AWS/S3, AWS/EC2, Vows
-
-&nbsp;
 
 ## EXPERIENCE ##
 
