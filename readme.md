@@ -28,3 +28,6 @@ Spearheaded development of this Ruby on Rails application. It is a private proje
 
 #### BeenVerified Inc. (July 2010 – September 2010) ####
 Played the role of Business Logic Analyst who developed server maintenance software, and hacked away at the core product to kill bugs. I experimented with new tech and methodologies with peers to speed up our large app and decreased bandwidth and resource usage many fold.
+
+#### Codecademy (March 2012 - August 2012) ####
+Contractor and Intern, frontend and backend. Designed and implimented a service to allow asynchronous message passing from a Rails app or Sidekiq process to the client via websockets. The system scales linearly. I also added feedback functionality to various aspects of the site and even created a few courses to show off jQuery functionality.
