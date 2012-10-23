@@ -10,10 +10,10 @@ My objective is to explore the realm of user interaction and perception. I enjoy
 
 ## TECHNOLOGY ##
 
-**Languages**: Ruby, C/C++, Processing, JavaScript (Node, jQuery), Bash, CSS, HTML5, Go, Objective-C
+**Languages**: Ruby, C, Processing, JavaScript (Node, jQuery), CSS, HTML5, Go, Java
 **Systems**: Ubuntu, Mac OS, iOS
 **Frameworks**: Rails, Sinatra, openFrameworks, Node, Backbone
-**Technologies/ideologies/Software**: Git, MySQL, SQLite3, Thin, Mongrel2, Heroku, CouchDB, AWS/S3, AWS/EC2, Vows
+**Technologies/ideologies/Software**: Git, SQLite3, Thin, Mongrel2, Heroku, AWS/S3, AWS/EC2, Redis, MongoDB
 
 ## EXPERIENCE ##
 
