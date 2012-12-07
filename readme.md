@@ -1,7 +1,5 @@
 # Artem Titoulenko #
 
-## COMMUNICATIONS
-
 email: <artem.titoulenko@gmail.com>  
 github: [github.com/ArtemTitoulenko](http://github.com/ArtemTitoulenko)  
 twitter: [@ofxartem](http://twitter.com/ofxartem)  
