@@ -1,8 +1,11 @@
 # Artem Titoulenko #
-287 Triangle RD Hillsborough NJ 08844  
-908 217 3824  
-[artem.titoulenko@gmail.com](mailto:artem.titoulenko@gmail.com)  
-[https://www.github.com/ArtemTitoulenko](github.com/ArtemTitoulenko)
+
+## COMMUNICATIONS
+
+email: <artem.titoulenko@gmail.com>  
+github: [github.com/ArtemTitoulenko](http://github.com/ArtemTitoulenko)  
+twitter: [@ofxartem](http://twitter.com/ofxartem)  
+phone: (908) 217 - 3824  
 
 ## OBJECTIVE ##
 
