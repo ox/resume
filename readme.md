@@ -13,7 +13,7 @@ My objective is to explore the realm of user interaction and perception. I enjoy
 **Languages**: JS, Ruby, C, Processing, Go, Java  
 **Systems**: Ubuntu, Mac OS, iOS  
 **Frameworks**: Express, Matador, Sinatra, Rails, openFrameworks  
-**Tools and Services**: Git, (Thin, Mongrel2, Unicorn) Heroku, AWS, Redis, MongoD, DynamoDB  
+**Tools and Services**: Git, (Thin, Mongrel2, Unicorn), Heroku, AWS, Redis, MongoD, DynamoDB  
 
 ## EXPERIENCE
 
