@@ -2,8 +2,7 @@
 
 email: <artem.titoulenko@gmail.com>  
 github: [github.com/ArtemTitoulenko](http://github.com/ArtemTitoulenko)  
-twitter: [@ofxartem](http://twitter.com/ofxartem)  
-phone: (908) 217 - 3824  
+twitter: [@ox](http://twitter.com/ox)  
 
 ## OBJECTIVE ##
 
@@ -11,12 +10,15 @@ My objective is to explore the realm of user interaction and perception. I enjoy
 
 ## TECHNOLOGY
 
-**Languages**: Ruby, C, Processing, JS (Node, jQuery), CSS, HTML5, Go, Java  
+**Languages**: JS, Ruby, C, Processing, Go, Java  
 **Systems**: Ubuntu, Mac OS, iOS  
-**Frameworks**: Sinatra, Backbone, Rails, openFrameworks, Express  
-**Tools and Services**: Git, Thin, Mongrel2, Heroku, AWS/S3, AWS/EC2, Redis, MongoDB  
+**Frameworks**: Express, Matador, Sinatra, Rails, openFrameworks  
+**Tools and Services**: Git, (Thin, Mongrel2, Unicorn) Heroku, AWS, Redis, MongoD, DynamoDB  
 
 ## EXPERIENCE
+
+#### Medium (June 2013 - August 2013) ####
+Intern, specializing in backend architecture and supporting libraries. I updated and maintained Dynamite, our home-grown DynamoDB client. I also refactored, updated, and maintained zcache, our cache layer management and interface library. I collaborated with our Platform circle to decrease system latency six-fold and improve internal response times many more times than that. I also worked on admin tools and patched vulnerabilities in user-facing services.
 
 #### Codecademy (March 2012 - August 2012) ####
 Contractor and Intern, frontend and backend. Designed and implemented a service to allow asynchronous message passing from a Rails app or Sidekiq process to the client via websockets. The system scales linearly. I also added feedback functionality to various aspects of the site and even created a few courses to show off jQuery functionality.
