@@ -37,7 +37,7 @@ Animo is a large-scale, distributed computing project which featured 8 different
 
 ## NOTABLE PROJECTS
 
-#### [Angstom](http://github.com/ArtemTitoulenko/angstrom)
+#### [Angstrom](http://github.com/ArtemTitoulenko/angstrom)
 
 An evented, actor-based server for Ruby the scales horizontally. The purpose of the project initially was to create a framework similar to [Brubeck](http://brubeck.io), however it turned into a journey of self-discovery and reading Ruby internals documentation. The framework turned into an exploration of actor-based systems, using mongrel2, and finding a way to work around the GIL. Angstrom has been on the back burner but at the time it outperformed Sinatra.
 
