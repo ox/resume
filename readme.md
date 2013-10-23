@@ -43,7 +43,7 @@ During my time at Medium I helped extend and develop zcache, a multi-tiered cac
 
 #### [Dynamite](https://github.com/Obvious/dynamite)
 
-One of my first Medium projects was an extensive update and refactoring of their promise-based DynamoDB client Dynamite. It provides a very elegant and straight-forward interface to interact with DynamoDB and is an integral part of the Medium application. We also wrote a fake DynamoDB engine to test Dynamite queries against so testing is performed on the machine and doesn't incur AWS costs.
+One of my first Medium projects was an extensive update and refactoring of their promise-based DynamoDB client Dynamite. It provides a very elegant and straight-forward interface to interact with DynamoDB and is an integral part of the Medium application. We also wrote a fake DynamoDB engine to test Dynamite queries against so testing is performed locally and doesn't incur AWS costs.
 
 #### [Angstrom](https://github.com/ArtemTitoulenko/angstrom)
 
