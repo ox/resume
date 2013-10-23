@@ -11,9 +11,9 @@ My objective is to explore the realm of user interaction and perception. I enjoy
 ## TECHNOLOGY
 
 **Languages**: JS, Ruby, C, Processing, Go, Java  
-**Systems**: Ubuntu, Mac OS, iOS  
+**Systems**: *nix, Mac OSX, iOS
 **Frameworks**: Express, Matador, Sinatra, Rails, openFrameworks  
-**Tools and Services**: Git, (Thin, Mongrel2, Unicorn), Heroku, AWS, Redis, MongoD, DynamoDB  
+**Tools and Services**: Git, (Thin, Mongrel2, Unicorn), Heroku, AWS, Redis, MongoDB, DynamoDB  
 
 ## EXPERIENCE
 
@@ -22,6 +22,9 @@ Intern, specializing in backend architecture and supporting libraries. I updated
 
 #### Codecademy (March 2012 - August 2012) ####
 Contractor and Intern, frontend and backend. Designed and implemented a service to allow asynchronous message passing from a Rails app or Sidekiq process to the client via websockets. The system scales linearly. I also added feedback functionality to various aspects of the site and even created a few courses to show off jQuery functionality.
+
+#### HackerSchool, Batch[0] Summer 2011 ####
+I was part of the first batch of HackerSchool students. I dove into the depths of Ruby and created quite a few small projects and experiments. I also experimented with Clojure and tweaked some forked Lisp interpreters.
 
 #### BeenVerified Inc. (July 2010 - September 2010) ####
 Played the tools and product developer role. I developed server maintenance software, and hacked away at the core product to kill bugs. I experimented with new tech and methodologies with peers to speed up our large app and decreased bandwidth and resource usage many fold.
