@@ -51,4 +51,4 @@ An evented, actor-based server for Ruby the scales horizontally. The purpose of 
 
 #### [Micro Army](https://github.com/ArtemTitoulenko/microarmy)
 
-This is a tool to quickly turn on some number of AWS micro instances and have them perform a given script at the same time. It has been used to load balance different types of services at Codecademy and can be employed for many other tasks. The code is a fork of the original [Micro Army](http://github.com/j2labs/microarmy) by [James Dennis](http://github.com/j2labs).
+This is a tool to quickly turn on some number of AWS micro instances and have them perform a given script at the same time. It has been used to load test different types of services at Codecademy and can be employed for many other tasks. The code is a fork of the original [Micro Army](http://github.com/j2labs/microarmy) by [James Dennis](http://github.com/j2labs).
