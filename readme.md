@@ -37,14 +37,18 @@ Animo is a large-scale, distributed computing project which featured 8 different
 
 ## NOTABLE PROJECTS
 
-#### [Angstrom](http://github.com/ArtemTitoulenko/angstrom)
+#### [ZCache](https://github.com/Obvious/zcache)
+
+During my time at Medium I helped extend and develop zcache, a multi-tiered caching system for node apps. Groups of services like Redis and MemCached can be organized as cache layers, like in a processor, and manipulated as if they were a single cache. These could then further be tweaked to invalidate cache items sooner or later, and querying for a set of items would search all cache layers (if necessary) to reduce database queries and improve application performance. It is used extensively in Medium and has helped reduce application latency by many orders of magnitude.
+
+#### [Dynamite](https://github.com/Obvious/dynamite)
+
+One of my first Medium projects was an extensive update and refactoring of their promise-based DynamoDB client Dynamite. It provides a very elegant and straight-forward interface to interact with DynamoDB and is an integral part of the Medium application. We also wrote a fake DynamoDB engine to test Dynamite queries against so testing is performed on the machine and doesn't incur AWS costs.
+
+#### [Angstrom](https://github.com/ArtemTitoulenko/angstrom)
 
 An evented, actor-based server for Ruby the scales horizontally. The purpose of the project initially was to create a framework similar to [Brubeck](http://brubeck.io), however it turned into a journey of self-discovery and reading Ruby internals documentation. The framework turned into an exploration of actor-based systems, using mongrel2, and finding a way to work around the GIL. Angstrom has been on the back burner but at the time it outperformed Sinatra.
 
 #### [Micro Army](https://github.com/ArtemTitoulenko/microarmy)
 
-This is a tool to quickly turn on some number of AWS micro instances and have them perform a given script at the same time. It has been used to load balance different types of services at Codecademy and can be employed for many other tasks. The code is a rip off of the original [Micro Army](http://github.com/j2labs/microarmy) by [James Dennis](http://github.com/j2labs).
-
-#### [C.rb](http://github.com/ArtemTitoulenko/C.rb)
-
-C.rb is a simple time clocker which allows you to just call the program to clock in and just start working. When you're done for the day, just call c.rb again and your time will be logged. You can monitor how many hours you've clocked and the actual log itself.
+This is a tool to quickly turn on some number of AWS micro instances and have them perform a given script at the same time. It has been used to load balance different types of services at Codecademy and can be employed for many other tasks. The code is a fork of the original [Micro Army](http://github.com/j2labs/microarmy) by [James Dennis](http://github.com/j2labs).
