@@ -8,6 +8,10 @@ twitter: [@ox](http://twitter.com/ox)
 
 My objective is to explore the realm of user interaction and perception. I enjoy creating works that challenge expectations and do so in a way that smoothly guides and enlightens the user. Ultimately, I seek to create beautiful and easy to use works which stem from my experiences to deliver profound meanings to the user, be it in art or through the web.
 
+## EDUCATION ##
+
+Graduated Rutgers University in the Winter of 2013 with a BS in Computer Science.
+
 ## TECHNOLOGY
 
 **Languages**: Go, JS, Ruby, C, Processing  
