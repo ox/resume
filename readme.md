@@ -1,7 +1,7 @@
 # Artem Titoulenko #
 
 email: <artem.titoulenko@gmail.com>  
-github: [github.com/ArtemTitoulenko](http://github.com/ArtemTitoulenko)  
+github: [github.com/ox](http://github.com/ox)  
 twitter: [@ox](http://twitter.com/ox)  
 
 ## OBJECTIVE ##
@@ -10,7 +10,7 @@ My objective is to explore the realm of user interaction and perception. I enjoy
 
 ## TECHNOLOGY
 
-**Languages**: JS, Ruby, C, Processing, Go, Java  
+**Languages**: Go, JS, Ruby, C, Processing  
 **Systems**: \*nix, Mac OSX, iOS  
 **Frameworks**: Express, Matador, Sinatra, Rails, openFrameworks  
 **Tools and Services**: Git, (Thin, Mongrel2, Unicorn), Heroku, AWS, Redis, MongoDB, DynamoDB  
