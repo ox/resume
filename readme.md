@@ -17,7 +17,7 @@ BS in Computer Science from Rutgers University since the Winter of 2013.
 **Languages**: Go, Node, React, Ruby, C, Processing  
 **Systems**: \*nix, Mac OSX, iOS  
 **Frameworks**: React, Angular, Express, Matador, Sinatra, Rails, openFrameworks  
-**Buzzword Tools**: Git, AWS, Redis, Heroku, Postgresql, MongoDB, DynamoDB, Phabricator  
+**Buzzword Tools**: Git, AWS, ElasticBeanstalk, Docker, ECR, Redis, Heroku, Postgresql, MongoDB, DynamoDB, Phabricator  
 
 ## EXPERIENCE
 
