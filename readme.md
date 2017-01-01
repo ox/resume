@@ -30,13 +30,17 @@ BS in Computer Science from Rutgers University since the Winter of 2013.
 + Part of small team tasked with rebuilding the [homepage](https://www.shopspring.com), so that users could also shop on the web, track their orders, and explore other brands. Additionally worked on SEO-focused changes to make products on the site show up higher in search results, building sitemaps for crawlers, and regularly exporting PLAs to Google Shopping. Our web team was extraordinarily successful and was eventually responsible for the majority of revenue across the company.
 
 #### Medium (June 2013 - August 2013)
-Intern, specializing in backend architecture and supporting libraries. I updated and maintained Dynamite, our home-grown DynamoDB client. I also refactored, updated, and maintained zcache, our cache layer management and interface library. I collaborated with our Platform circle to decrease system latency six-fold and improve internal response times many more times than that. I also worked on admin tools and patched vulnerabilities in user-facing services.
++ Intern, specializing in backend architecture and supporting libraries.
++ Updated and maintained Dynamite, our home-grown DynamoDB client.
++ Refactored, updated, and maintained zcache, our cache layer management and interface library.
++ Collaborated with our Platform circle to decrease system latency six-fold and improve internal response times many more times than that.
++ Worked on admin tools and patched vulnerabilities in user-facing services.
 
 #### Codecademy (March 2012 - August 2012)
-Contractor and Intern, frontend and backend. Designed and implemented a service to allow asynchronous message passing from a Rails app or Sidekiq process to the client via websockets. The system scales linearly. I also added feedback functionality to various aspects of the site and even created a few courses to show off jQuery functionality.
+Contractor and Intern, frontend and backend. Designed and implemented a service to allow asynchronous message passing from a Rails app or Sidekiq process to the client via websockets for thousands of concurrent users. I also added feedback functionality to various parts of the site and even created a few courses to show off jQuery functionality.
 
 #### HackerSchool, Batch[0] Summer 2011
-I was part of the first batch of HackerSchool students. I dove into the depths of Ruby and created quite a few small projects and experiments. I also experimented with Clojure and tweaked some forked Lisp interpreters.
+I was part of the first batch of HackerSchool students. I dove into the depths of Ruby and created quite a few small projects and experiments, mainly around tracking programmer productivity. I also experimented with Clojure and tweaked some forked Lisp interpreters to experiment adding functionality to a standard library.
 
 #### BeenVerified Inc. (July 2010 - September 2010)
 Played the tools and product developer role. I developed server maintenance software, and hacked away at the core product to kill bugs. I experimented with new tech and methodologies with peers to speed up our large app and decreased bandwidth and resource usage many fold.
