@@ -10,9 +10,9 @@ twitter: [@ox](http://twitter.com/ox)
 
 + Software engineer at an early-stage startup, helped build a lot of first iterations of many foundational pieces of software.
 + Worked with a UI/UX designer on prototyping and building out a vendor-facing product management system, used by all 1000+ vendors. The product management system allowed vendors to import, sync, upload products from their inventory systems (like Magento, Shopify, Demandware, csv imports, etc) or to use Spring's. The system also allowed brands to control the way their brand page looking in the iOS app, schedule product releases, offer discounts, and manage a marketing calendar.
++ Part of small team tasked with rebuilding the [Spring homepage](https://www.shopspring.com), so that users could also shop on the web, track their orders, and explore other brands. Additionally worked on SEO-focused changes to make products on the site show up higher in search results, building sitemaps for crawlers, and regularly exporting PLAs to Google Shopping. Our team was extraordinarily successful and was eventually responsible for the majority of revenue across the company.
 + Built a variety of admin tools for the Concierge (customer support) team that enabled them to trace order history and resolve issues.
 + Collaborated on backend systems that normalize and keep remote inventory system products in sync with our DB, and how product changes affect customer purchases.
-+ Part of small team tasked with rebuilding the [homepage](https://www.shopspring.com), so that users could also shop on the web, track their orders, and explore other brands. Additionally worked on SEO-focused changes to make products on the site show up higher in search results, building sitemaps for crawlers, and regularly exporting PLAs to Google Shopping. Our web team was extraordinarily successful and was eventually responsible for the majority of revenue across the company.
 
 #### Medium (June 2013 - August 2013)
 + Intern, specializing in backend architecture and supporting libraries.
