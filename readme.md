@@ -8,20 +8,20 @@ twitter: [@ox](http://twitter.com/ox)
 
 #### Spring (November 2013 - May 2016)
 
-+ Software engineer at an early-stage startup, helped build a lot of first iterations of many pieces of software for the company.
++ Software engineer at an early-stage startup, helped build a lot of first iterations of many foundational pieces of software.
 + Worked with a UI/UX designer on prototyping and building out a vendor-facing product management system, used by all 1000+ vendors. The product management system allowed vendors to import, sync, upload products from their inventory systems (like Magento, Shopify, Demandware, csv imports, etc) or to use Spring's. The system also allowed brands to control the way their brand page looking in the iOS app, schedule product releases, offer discounts, and manage a marketing calendar.
 + Built a variety of admin tools for the Concierge (customer support) team that enabled them to trace order history and resolve issues.
 + Collaborated on backend systems that normalize and keep remote inventory system products in sync with our DB, and how product changes affect customer purchases.
 + Part of small team tasked with rebuilding the [homepage](https://www.shopspring.com), so that users could also shop on the web, track their orders, and explore other brands. Additionally worked on SEO-focused changes to make products on the site show up higher in search results, building sitemaps for crawlers, and regularly exporting PLAs to Google Shopping. Our web team was extraordinarily successful and was eventually responsible for the majority of revenue across the company.
 
-#### Medium (Intern, June 2013 - August 2013)
+#### Medium (June 2013 - August 2013)
 + Intern, specializing in backend architecture and supporting libraries.
 + Updated and maintained Dynamite, our home-grown DynamoDB client.
 + Refactored, updated, and maintained zcache, our cache layer management and interface library.
 + Collaborated with our Platform circle to decrease system latency six-fold and improve internal response times many more times than that.
 + Worked on admin tools and patched vulnerabilities in user-facing services.
 
-#### Codecademy (Contractor, Intern, March 2012 - August 2012)
+#### Codecademy (March 2012 - August 2012)
 Contractor and Intern, frontend and backend. Designed and implemented a service to allow asynchronous message passing from a Rails app or Sidekiq process to the client via websockets for thousands of concurrent users. I also added feedback functionality to various parts of the site and even created a few courses to show off jQuery functionality.
 
 #### HackerSchool, Batch[0] Summer 2011
