@@ -43,3 +43,9 @@ I was part of the first batch of HackerSchool students. I dove into the depths o
 
 Rutgers University, School of Arts and Sciences
 _BS Computer Science_
+
+## Interests and Notable Skills
+
+I have a passion for reducing avoidable engineering errors and burdens, notably time wasted just waiting for something to happen, or not being confident in the correctness of a change. I combat these wherever I can by automating testing, measuring errors and sources, and using tools to manage deployments. I believe that better products are built by confident, quick teams.
+
+I am deeply interested in music, namely machine-based composition. Algorithmic composition is an interesting collaboration between the artist and the machine, creating previously unimaginable music. I spend my spare time researching music theory and modular synthesis.
