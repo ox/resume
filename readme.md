@@ -48,4 +48,6 @@ _BS Computer Science_
 
 I have a passion for reducing avoidable engineering errors and burdens, notably time wasted just waiting for something to happen, or not being confident in the correctness of a change. I combat these wherever I can by automating testing, measuring errors and sources, and using tools like Kubernetes to manage operations. I believe that better products are built by agile, confident teams.
 
-I am deeply interested in music, namely machine-based composition. Algorithmic composition is an interesting collaboration between the artist and the machine, creating previously unimaginable music. I spend my spare time researching music theory and modular synthesis.
+I am deeply interested in music, namely machine-based composition. Algorithmic composition is an interesting collaboration between the artist and the machine, creating previously unimaginable music.
+
+I am also interested in exploring various programming languages like Haskell and Erlang to study new approaches to solving problems.
