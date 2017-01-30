@@ -34,10 +34,10 @@ twitter: [@ox](http://twitter.com/ox)
 + Worked on admin tools and patched vulnerabilities in user-facing services.
 
 #### Codecademy (March 2012 - August 2012)
-Contractor and Intern, frontend and backend. Designed and implemented a service to allow asynchronous message passing from a Rails app or Sidekiq process to the client via websockets for thousands of concurrent users. I also added feedback functionality to various parts of the site and even created a few courses to show off jQuery functionality.
+Contractor and Intern, frontend and backend. I designed and implemented an messaging service alongside a Rails app to enable rudimentary user notifications. This sped up the critical path to rendering the next lesson, and maintained the ability to give the user feedback on their progress. I also added feedback functionality to various parts of the site and even created a few courses to show off jQuery functionality.
 
 #### HackerSchool, Batch[0] Summer 2011
-I was part of the first batch of HackerSchool students. I dove into the depths of Ruby and created quite a few small projects and experiments, mainly around tracking programmer productivity. I also experimented with Clojure and tweaked some forked Lisp interpreters to experiment adding functionality to a standard library.
+I was part of the first batch of HackerSchool students. I dove into the depths of Ruby and created quite a few small projects and experiments, mainly around tracking programmer productivity. I also experimented with Clojure and played with a forked Lisp interpreter to experiment adding functionality to a standard library.
 
 ## EDUCATION
 
