@@ -8,8 +8,7 @@ twitter: [@ox](http://twitter.com/ox)
 
 #### SVRF (July 2016)
 
-+ Lead System Architect, led effort to create Kubernetes-backed production environment along with basic monitoring and logging infrastructure. The system runs everything from web servers to dozens of scrapers and media processing services.
-+ Created a robust and secure Elasticsearch cluster to enable searching and ranked browsing of scraped content.
++ Lead System Architect, led effort to create Kubernetes-backed production environment along with basic monitoring and logging infrastructure. Our cluser of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a scraper cluster, media storage and resizing workers, image recognition workers, as well as a robust and secure Elasticsearch cluster.
 + Wrote tools and scripts to make local testing similar to production environments using docker-compose, and configured a CI service to ensure tests/linting are being run for every pull request and deploy. Other tools aimed to simplify deploying new container images to production.
 + Refactored the testing suite to reduce test duration by 80% while increasing coverage. Additionally wrote tools to make testing as easy as possible, with more readable results.
 + Refactored much of the codebase to focus on concise, functional, readable, testable code. I aimed to uphold those standards using tools like eslint and thorough code reviews.
