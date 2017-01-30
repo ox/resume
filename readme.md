@@ -8,7 +8,7 @@ twitter: [@ox](http://twitter.com/ox)
 
 #### SVRF (July 2016)
 
-+ Lead System Architect, led effort to create Kubernetes-backed production environment along with basic monitoring and logging infrastructure. Our cluser of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a scraper cluster, media storage and resizing workers, image recognition workers, as well as a robust and secure Elasticsearch cluster.
++ Lead System Architect, led effort to create Kubernetes-backed production environment along with basic monitoring and logging infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a scraper cluster, media storage and resizing workers, image recognition workers, as well as a robust and secure Elasticsearch cluster.
 + Wrote tools and scripts to make local testing similar to production environments using docker-compose, and configured a CI service to ensure tests/linting are being run for every pull request and deploy. Other tools aimed to simplify deploying new container images to production.
 + Refactored the testing suite to reduce test duration by 80% while increasing coverage. Additionally wrote tools to make testing as easy as possible, with more readable results.
 + Refactored much of the codebase to focus on concise, functional, readable, testable code. I aimed to uphold those standards using tools like eslint and thorough code reviews.
@@ -22,7 +22,7 @@ twitter: [@ox](http://twitter.com/ox)
 + Built a variety of admin tools for the Concierge (customer support) team that enabled them to trace order history and resolve customer issues.
 + Collaborated on backend systems that normalize and keep remote inventory system products in sync with our DB, and how product changes affect customer purchases.
 + Participated in regular on-call rotation, and helped flesh out the monitoring and alerting systems to send alerts to the appropriate people. This reduced engineer frustration (mysterious system failures) and improved time to resolving issues considerably.
-+ Maintained on-prem Phabricator instance to facilitate more effective code reviews. I also built several tools with the goal of reducing idle engineering hours and forgotten diffs. These tools reduced turn-around time for code reviews to minutes rather than hours.
++ Maintained on-prem Phabricator instance to facilitate more effective code reviews. I also built several tools with the goal of reducing idle engineering hours and forgotten diffs. These tools reduced turnaround time for code reviews to minutes rather than hours.
 + Worked on testing infrastructure to reduce test duration, improve test result readability, and make testing as painless and consistent as possible. Eventually we were able to reduce average test times from 25 minutes to 3 minutes, all while increasing code coverage.
 
 #### Medium (June 2013 - August 2013)
@@ -33,7 +33,7 @@ twitter: [@ox](http://twitter.com/ox)
 + Worked on admin tools and patched vulnerabilities in user-facing services.
 
 #### Codecademy (March 2012 - August 2012)
-Contractor and Intern, frontend and backend. I designed and implemented an messaging service alongside a Rails app to enable rudimentary user notifications. This sped up the critical path to rendering the next lesson, and maintained the ability to give the user feedback on their progress. I also added feedback functionality to various parts of the site and even created a few courses to show off jQuery functionality.
+Contractor and Intern, frontend and backend. I designed and implemented a messaging service alongside a Rails app to enable rudimentary user notifications. This sped up the critical path to rendering the next lesson, and maintained the ability to give the user feedback on their progress. I also added feedback functionality to various parts of the site and even created a few courses to show off jQuery functionality.
 
 #### HackerSchool, Batch[0] Summer 2011
 I was part of the first batch of HackerSchool students. I dove into the depths of Ruby and created quite a few small projects and experiments, mainly around tracking programmer productivity. I also experimented with Clojure and played with a forked Lisp interpreter to experiment adding functionality to a standard library.
