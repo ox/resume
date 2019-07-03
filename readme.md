@@ -6,14 +6,14 @@ twitter: [@ox](http://twitter.com/ox)
 
 ## EXPERIENCE
 
-#### SVRF (July 2016)
+#### SVRF, Lead Systems Architect (July 2016)
 
-+ Lead System Architect, led effort to create Kubernetes-backed production environment along with basic monitoring and logging infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a scraper cluster, media storage and resizing workers, image recognition workers, as well as a robust and secure Elasticsearch cluster.
-+ Wrote the majority of the aforementioned backend services. Many of the service workers needed to be able to handle high computational loads and thus were designed to be parallelizable, utilizing Google Cloud Pub/Sub to handle message passing.
-+ Wrote tools and scripts to make local testing similar to production environments using docker-compose, and configured a CI service to ensure tests/linting are being run for every pull request and deploy. Other tools aimed to simplify deploying new container images to production.
-+ Refactored the testing suite to reduce test duration by 80% while increasing coverage. Additionally wrote tools to make testing as easy as possible, with more readable results.
-+ Refactored much of the codebase to focus on concise, functional, readable, testable code. I aimed to uphold those standards using tools like eslint and thorough code reviews.
-+ Wrote and updated documentation for every system I touched, as well as creating on-boarding documents for new engineers. I also created docker-compose-based tools to reduce the time it takes to set up a new engineering environment and increase time to first contribution significantly.
++ Outlined and led project to create Kubernetes-backed production environment with metrics monitoring and logging infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a scraper cluster, media storage and resizing workers, image recognition workers, a multi-stage 3D model optimizing pileline, as well as a robust and secure Elasticsearch cluster.
++ Wrote the majority of the aforementioned backend services to be highly parallelizable and auditable. This included detailed logging + metrics for servers, change histories for crucial data, and a shared PostgreSQL-backed work queue for queue-based workers.
++ Set up alerting for metrics that notifys relevant engineers and provide context for resolving the incident. Along with alerting I wrote up an incident response plan that details the process of coordinating and resolving an outage while keeping customers/partners up to date with the progress being made.
++ Led efforts to drastically shorten test times, increase durability of tests, and create a development environment where there is a lot of confidence frequently deploying code. This included creating an automatic CI/CD system that coordinates deployment of dependant, interrelated services.
++ Upheld code + design standards using tools like eslint and encouraging code reviews for all changes.
++ Focused on getting new engineers up and contributing as quickly as possible through automated setup scripts and extensive documentation, both in code as well as design documents for services and features.
 
 #### Spring (November 2013 - May 2016)
 
