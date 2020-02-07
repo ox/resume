@@ -10,9 +10,10 @@ twitter: [@ox](http://twitter.com/ox)
 
 + Outlined and led project to create Kubernetes-backed production environment from scratch, with metrics monitoring and logging infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a web crawling cluster, media storage and resizing workers, image recognition workers, a multi-stage 3D model optimizing pipeline, as well as a robust and secure ElasticSearch cluster.
 + Wrote the majority of the aforementioned backend services to be highly parallelizable and auditable. This included detailed logging + metrics for servers, auditable change histories for crucial data, and a shared PostgreSQL-backed work queue for queue-based workers.
++ Led project to rebuild an aging Angular.js website to React using Next.js with an emphasis on blazing fast loading. As part of the rebuild I also worked with our design team to build a design system to unify the look and feel of our websites and iOS app.
 + Set up alerting for metrics that notifies relevant engineers and provide context for resolving the incident. Along with alerting I wrote up an incident response plan that details the process of coordinating and resolving an outage while keeping customers/partners up to date with the progress being made.
 + Repeatedly led efforts to drastically shorten test times, increase durability of tests, creating a development environment enabling engineers to deploy code with confidence. This included creating an automatic CI/CD system that coordinates deployment of dependent, interrelated services.
-+ Upheld code + design standards using tools like eslint and encouraging code reviews for all changes.
++ Upheld code + design standards using tools like eslint and encouraged culture of code reviews for all changes.
 + Focused on getting new engineers up and contributing as quickly as possible through automated setup scripts and extensive documentation, both in code as well as design documents for services and features.
 
 #### Spring (November 2013 - May 2016)
