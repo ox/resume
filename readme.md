@@ -1,15 +1,15 @@
 # Artem Titoulenko
 
-email: <artem.titoulenko@gmail.com>  
-github: [github.com/ox](http://github.com/ox)  
-twitter: [@ox](http://twitter.com/ox)  
+email: artem.titoulenko@gmail.com  
+github: github.com/ox  
+twitter: @ox  
 
 ## EXPERIENCE
 
 #### SVRF, Lead Systems Architect (July 2016)
 
 + Outlined and led project to create Kubernetes-backed production environment from scratch, with metrics monitoring and logging infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a web crawling cluster, media storage and resizing workers, image recognition workers, a multi-stage 3D model optimizing pipeline, as well as a robust and secure ElasticSearch cluster.
-+ Wrote the majority of the aforementioned backend services to be highly parallelizable and auditable. This included detailed logging + metrics for servers, auditable change histories for crucial data, and a shared PostgreSQL-backed work queue for queue-based workers.
++ Wrote the majority of the aforementioned backend services using Node.js to be highly parallelizable and auditable. This included detailed logging + metrics for servers, auditable change histories for crucial data, and a shared PostgreSQL-backed work queue for queue-based workers.
 + Led project to rebuild an aging Angular.js website to React using Next.js with an emphasis on blazing fast loading. As part of the rebuild I also worked with our design team to build a design system to unify the look and feel of our websites and iOS app.
 + Set up alerting for metrics that notifies relevant engineers and provide context for resolving the incident. Along with alerting I wrote up an incident response plan that details the process of coordinating and resolving an outage while keeping customers/partners up to date with the progress being made.
 + Repeatedly led efforts to drastically shorten test times, increase durability of tests, creating a development environment enabling engineers to deploy code with confidence. This included creating an automatic CI/CD system that coordinates deployment of dependent, interrelated services.
@@ -20,7 +20,7 @@ twitter: [@ox](http://twitter.com/ox)
 
 + Software engineer at an early-stage startup, helped build a lot of first iterations of many foundational pieces of software, all in Go.
 + Worked with UI/UX designers on prototyping and building out a vendor-facing product management system, used by all 1000+ vendors. The system allowed vendors to import, sync, upload products from their inventory systems (Magento, Shopify, Demandware, csv imports, etc) or to use Spring's. The system also allowed brands to control the way their brand page looking in the iOS app, schedule product releases, offer discounts, and manage a marketing calendar.
-+ Part of small team tasked with rebuilding the [Spring homepage](https://www.shopspring.com), enabling users to shop, track their orders, and explore other brands on the web. I additionally worked on SEO-focused changes to improve Google Shopping ranking. I also built sitemaps for various crawlers, and tools to regularly export PLA to Google Shopping. Our team was extraordinarily successful and was eventually responsible for the majority of revenue across the company.
++ Part of small team tasked with rebuilding the [Spring homepage](https://www.shopspring.com) using React, enabling users to shop, track their orders, and explore other brands on the web. I additionally worked on SEO-focused changes to improve Google Shopping ranking. I built sitemaps for various crawlers, and tools to regularly export PLA to Google Shopping. Our team was extraordinarily successful and was eventually responsible for the majority of revenue across the company.
 + Built a variety of admin tools for the Concierge (customer support) team that enabled them to trace order history and resolve customer issues.
 + Collaborated on backend systems that normalize and keep remote inventory system products in sync with our DB, and how product changes affect customer purchases.
 + Participated in regular on-call rotation, and helped flesh out the monitoring and alerting systems to send alerts to the appropriate people. This reduced engineer frustration (mysterious system failures) and improved time to resolving issues considerably.
@@ -44,11 +44,3 @@ I was part of the first batch of HackerSchool students. I dove into the depths o
 
 Rutgers University, School of Arts and Sciences
 _BS Computer Science_
-
-## Interests and Skills
-
-I have a passion for reducing avoidable engineering errors and burdens, notably time wasted just waiting for something to happen, or not being confident in the correctness of a change. I combat these wherever I can by automating testing, measuring errors and sources, and using tools like Kubernetes to manage operations. I believe that better products are built by agile, confident teams.
-
-I am deeply interested in music, namely machine-based composition. Algorithmic composition is an interesting collaboration between the artist and the machine, creating previously unimaginable music.
-
-I am also interested in exploring various programming languages like Haskell and Erlang to study new approaches to solving problems.
