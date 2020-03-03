@@ -69,3 +69,4 @@ I was part of the first batch of HackerSchool students. I dove into the depths o
 
 Rutgers University, School of Arts and Sciences
 _BS Computer Science_
+September 2010 - December 2013  
