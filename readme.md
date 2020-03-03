@@ -9,20 +9,21 @@ blog: https://ox.github.io
 
 Proficient:
 
-- Golang
-- Node.js
-- React
-- Next.js
-- Angular.js
 - Kubernetes
 - Google Cloud (GKE, GCP, Storage, Datastore, Cloud Pub/Sub)
+- Golang
+- Node.js
 - PostgreSQL
+- React
+- Next.js
 - Misc. infra: DataDog, Buildkite, StatusPage, GitHub
 
 Experienced:
 
+- Swift
+- iOS SDK
 - TypeScript
-- Angular
+- Angular.js
 - Ruby
 
 ## EXPERIENCE
@@ -31,9 +32,12 @@ Experienced:
 
 + Wrote specification and led project to create Kubernetes-backed production environment from scratch, with metrics monitoring and logging + alerting infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a web crawling cluster, media storage and resizing workers, image recognition workers, a multi-stage 3D model optimizing pipeline, as well as a robust and secure ElasticSearch cluster.
 + Wrote the majority of the aforementioned backend services using Node.js to be highly parallelizable and easy to debug. This included detailed logging + metrics for servers, auditable change histories for crucial data, and a shared PostgreSQL-backed work queue for queue-based workers.
-+ Led project to rebuild an aging Angular.js website to React using Next.js with an emphasis on blazing fast loading. As part of the rebuild I also worked with our design team to build a design system to unify the look and feel of our websites and iOS app.
 + Set up alerting for metrics that notifies relevant engineers and provide context for resolving the incident. Along with alerting I wrote up an incident response plan that details the process of coordinating and resolving an outage while keeping customers/partners up to date with the progress being made.
++ Created a complex photo and video transcoding pipeline which ensured all media we served was available in a variety of sizes and bitrates for all potential clients. Video was also specially encoded to be available as an HLS stream for quick, quality playback on all kinds of devices with varying resolutions and bandwidth.
 + Repeatedly led efforts to drastically shorten test times, increase durability of tests, creating a development environment enabling engineers to deploy code with confidence. This included creating an automatic CI/CD system that coordinates deployment of dependent, interrelated services.
++ Researched, planned, and developed new data pipelines for processing and optimizing feature-rich 3D models from a variety of formats (FBX, DAE) to glTF. The pipelines were responsible for ensuring models were compact, efficient, and had optimized assets for great performance on all devices.
++ Developed custom glTF extensions to create feature parity with Snapchat and Instagram face filter experiences. This included features like image sequence textures, and video textures. Extensions were built into a forked Blender extension, all libraries in our processing pipeline, on-device glTF loading client, and web-based glTF loading client.
++ Led project to rebuild an aging Angular.js website to React using Next.js with an emphasis on blazing fast loading. As part of the rebuild I also worked with our design team to build a design system to unify the look and feel of our websites and iOS app.
 + Upheld code + design standards using tools like eslint and encouraged culture of code reviews for all changes.
 + Focused on getting new engineers up and contributing as quickly as possible through automated setup scripts and extensive documentation, both in code as well as design documents for services and features.
 
