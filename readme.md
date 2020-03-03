@@ -3,13 +3,34 @@
 email: artem.titoulenko@gmail.com  
 github: github.com/ox  
 twitter: @ox  
+blog: https://ox.github.io  
+
+### Tech
+
+Proficient:
+
+- Golang
+- Node.js
+- React
+- Next.js
+- Angular.js
+- Kubernetes
+- Google Cloud (GKE, GCP, Storage, Datastore, Cloud Pub/Sub)
+- PostgreSQL
+- Misc. infra: DataDog, Buildkite, StatusPage, GitHub
+
+Experienced:
+
+- TypeScript
+- Angular
+- Ruby
 
 ## EXPERIENCE
 
-#### SVRF, Lead Systems Architect (July 2016)
+#### SVRF, Lead Systems Architect (July 2016 - March 2020)
 
-+ Outlined and led project to create Kubernetes-backed production environment from scratch, with metrics monitoring and logging infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a web crawling cluster, media storage and resizing workers, image recognition workers, a multi-stage 3D model optimizing pipeline, as well as a robust and secure ElasticSearch cluster.
-+ Wrote the majority of the aforementioned backend services using Node.js to be highly parallelizable and auditable. This included detailed logging + metrics for servers, auditable change histories for crucial data, and a shared PostgreSQL-backed work queue for queue-based workers.
++ Wrote specification and led project to create Kubernetes-backed production environment from scratch, with metrics monitoring and logging + alerting infrastructure. Our cluster of nodes run: web servers for admin tools and user-facing content viewing services, cron jobs, api servers, a web crawling cluster, media storage and resizing workers, image recognition workers, a multi-stage 3D model optimizing pipeline, as well as a robust and secure ElasticSearch cluster.
++ Wrote the majority of the aforementioned backend services using Node.js to be highly parallelizable and easy to debug. This included detailed logging + metrics for servers, auditable change histories for crucial data, and a shared PostgreSQL-backed work queue for queue-based workers.
 + Led project to rebuild an aging Angular.js website to React using Next.js with an emphasis on blazing fast loading. As part of the rebuild I also worked with our design team to build a design system to unify the look and feel of our websites and iOS app.
 + Set up alerting for metrics that notifies relevant engineers and provide context for resolving the incident. Along with alerting I wrote up an incident response plan that details the process of coordinating and resolving an outage while keeping customers/partners up to date with the progress being made.
 + Repeatedly led efforts to drastically shorten test times, increase durability of tests, creating a development environment enabling engineers to deploy code with confidence. This included creating an automatic CI/CD system that coordinates deployment of dependent, interrelated services.
