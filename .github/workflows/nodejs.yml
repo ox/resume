@@ -17,6 +17,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - name: Github Commit Timestamp Tagger
+      uses: mcpierce/github-commit-timestamp-tagger@0.0.1
     - name: Render PDF
       run: npx markdown-pdf -f Letter -o resume.pdf ./readme.md
     - name: Make Release
