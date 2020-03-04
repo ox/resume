@@ -22,7 +22,7 @@ blog: https://ox.github.io
 **tl;dr:** Artem specializes in developing maintainable and robust systems that efficiently power critical business infrastructure. He is comfortable with many languages and tools; enabling companies to grow quickly and effortlessly.
 
 
-#### SVRF, Lead Systems Architect (July 2016 - March 2020)
+#### [SVRF](https://www.svrf.com), Lead Systems Architect (July 2016 - March 2020)
 
 - Led project to create entire Kubernetes-backed production environment from scratch, with metrics monitoring, logging, and alerting infrastructure.
   - Wrote majority of the backend services using Node.js to be highly parallelizable and easy to debug.
