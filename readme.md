@@ -41,6 +41,7 @@ blog: https://ox.github.io
 - Led project to rebuild an aging Angular website in React using Next.js with an emphasis on fast loading.
   - Worked with our design team to build a design system to unify our products. Upheld code + design standards using tools like eslint and Storyboards.
 
+- SVRF was [acquired] by Poplar on July, 2020
 
 #### Spring (November 2013 - May 2016)
 
@@ -93,3 +94,5 @@ blog: https://ox.github.io
 Rutgers University, School of Arts and Sciences
 _BS Computer Science_
 September 2010 - December 2013  
+
+[acquired]: https://poplar.studio/blog/ar-creative-platform-poplar-acquires-svrf-inc/
